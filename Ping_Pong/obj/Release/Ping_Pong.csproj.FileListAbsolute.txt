@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Release\Ping_Pong.exe.config
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Release\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Release\Ping_Pong.pdb
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\App.g.cs
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.g.resources
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Release\Ping_Pong.pdb

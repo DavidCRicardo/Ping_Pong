@@ -1,0 +1,33 @@
+﻿<Window x:Class="Ping_Pong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ping_Pong"
+        mc:Ignorable="d"
+        KeyDown="Window_KeyDown" Icon="icon.jpg" WindowStartupLocation="CenterScreen"
+        Title="PingPong v1.1" Height="450" Width="720" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Offset="0" Color="Gray"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Canvas Name="MainCanvas" Height="380" Margin="0,0,0,41">
+            <Rectangle x:Name="player1" Height="80" Width="20" Fill="Black" Canvas.Top="{Binding YPosition}"/>
+            <Rectangle x:Name="player2" Height="80" Width="20" Fill="Black" Canvas.Right="0" Canvas.Top="{Binding YPosition}"/>
+            <Ellipse  x:Name="ball" Height="20" Width="20" Canvas.Left="{Binding X}" Canvas.Top="{Binding Y}" Panel.ZIndex="1">
+                <Ellipse.Fill>
+                    <SolidColorBrush Color="Black"/>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Line X1="350" X2="350" Y1="0" Y2="380" Stroke="Wheat" StrokeThickness="5"/>
+            <Line X1="0" X2="720" Y1="380" Y2="380" Stroke="Black" StrokeThickness="3"/>
+            <TextBlock TextAlignment="Right" Text="Copyright © David Ricardo 2017" FontSize="10" HorizontalAlignment="Left" Width="212" Canvas.Left="483" Canvas.Top="397"/>
+
+        </Canvas>
+        <TextBlock Text="ESC: EXIT     F3: More Speed   F4:Less Speed" Height="20" Width="300" Margin="0,380,370,0"/>
+    </Grid>
+</Window>

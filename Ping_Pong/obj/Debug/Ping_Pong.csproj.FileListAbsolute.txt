@@ -1,0 +1,44 @@
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe.config
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.pdb
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.g.resources
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csproj.GenerateResource.Cache
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\1ano 2 semestre\Programação II\projeto\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.pdb
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe.config
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.pdb
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\App.g.cs
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.cache
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.lref
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.g.resources
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.exe
+C:\Users\david\Desktop\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.pdb
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong_MarkupCompile.lref
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.g.resources
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.pdb
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe.config
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.exe
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\bin\Debug\Ping_Pong.pdb
+C:\Users\david\OneDrive\Documentos\Ping_Pong\Ping_Pong\obj\Debug\Ping_Pong.csprojAssemblyReference.cache
